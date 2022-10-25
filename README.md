@@ -17,6 +17,8 @@ Twitter [https://twitter.com/theayushsinghal]
 
 Discord- BeyondInfinity#2391
 
+Email- ayushsinghal200176@gmail.com
+
 ### Description
 
 One stop place for all your book needs. Made using Next.js and Medusajs. it consists of all your school and college textbooks needs.
